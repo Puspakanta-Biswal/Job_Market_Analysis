@@ -89,12 +89,12 @@ The goal of this project is to help job seekers, recruiters, and businesses make
 ---
 
 ##  Salary & Job Role Analysis
-![Salary Dashboard](Dashboard/Salary & Job_Role_Analysis.png)
+![Salary Dashboard](Dashboard/Salary_Analysis.png)
 
 ---
 
 ##  Skills Demand Analysis
-![Skills Dashboard](Dashboard/skills_dashboard.png)
+![Skills Dashboard](Dashboard/Skills_Demand_Analysis.png)
 
 ---
 
