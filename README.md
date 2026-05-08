@@ -84,7 +84,7 @@ The goal of this project is to help job seekers, recruiters, and businesses make
 # 📷 Dashboard Preview
 
 ##  Job Market Overview
-![Overview Dashboard](Dashboard/overview_dashboard.png)
+![Overview Dashboard](Dashboard/Overview_Dashboard_Screenshot_1.png)
 
 ---
 
