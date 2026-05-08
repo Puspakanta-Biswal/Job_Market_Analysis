@@ -3,11 +3,12 @@ End-to-end Job Market Analysis project using SQL, Python, and Power BI with inte
 ## Dashboard Preview
 
 ### Job Market Overview
-Overview_Dashboard_Screenshot_1.png
+![Overview Dashboard](Dashboard/overview_dashboard.png)
 
 ### Salary & Job Role Analysis
-Salary & Job Role _Analysis.png
+![Salary Dashboard](Dashboard/salary_dashboard.png)
 
 ### Skills Demand Analysis
+![Skills Dashboard](Dashboard/skills_dashboard.png)
 Skills Demand _Analysis.png
 
